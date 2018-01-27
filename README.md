@@ -4,3 +4,5 @@ These meta-data are *about* flight test. How many OEMs? How many aircraft? The p
 If you have suggestions on how better to organize these data, please upload a file with the data organized the way you suggest.
 
 If you want to add data to these files, please do.
+
+Contact editor@sfte.org for more information.
